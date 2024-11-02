@@ -7,7 +7,7 @@ Esse repositório será atualizado ao longo do tempo com mais desafios conforme 
 
 ## atalho para cada seção/curso
 
-- JavaScript: utilizando tipos, variáveis e funções
+- [JavaScript: utilizando tipos, variáveis e funções](https://github.com/Vitor-R-Souza/Atividade-Formacao-JavaScript-Alura#javascript-utilizando-tipos-vari%C3%A1veis-e-fun%C3%A7%C3%B5es)
 - JavaScript: conhecendo arrays
 - JavaScript: conhecendo objetos
 ## JavaScript: utilizando tipos, variáveis e funções
