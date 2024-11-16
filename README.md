@@ -7,9 +7,9 @@ Esse repositório será atualizado ao longo do tempo com mais desafios conforme 
 
 ## atalho para cada seção/curso
 
-- [JavaScript: utilizando tipos, variáveis e funções](#javascript-conhecendo-arrays)
-- [JavaScript: conhecendo arrays](#javascript-conhecendo-objetos)
-- [JavaScript: conhecendo objetos](#javascript-utilizando-tipos-variáveis-e-funções)
+- [JavaScript: utilizando tipos, variáveis e funções](#javascript-utilizando-tipos-variáveis-e-funções)
+- [JavaScript: conhecendo arrays](#javascript-conhecendo-arrays)
+- [JavaScript: conhecendo objetos](#javascript-conhecendo-objetos)
 
 ## JavaScript: utilizando tipos, variáveis e funções
 
