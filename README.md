@@ -7,9 +7,10 @@ Esse repositório será atualizado ao longo do tempo com mais desafios conforme 
 
 ## atalho para cada seção/curso
 
-- [JavaScript: utilizando tipos, variáveis e funções](https://github.com/Vitor-R-Souza/Atividade-Formacao-JavaScript-Alura#javascript-utilizando-tipos-vari%C3%A1veis-e-fun%C3%A7%C3%B5es)
-- [JavaScript: conhecendo arrays](https://github.com/Vitor-R-Souza/Atividade-Formacao-JavaScript-Alura#javascript-conhecendo-arrays)
-- [JavaScript: conhecendo objetos](https://github.com/Vitor-R-Souza/Atividade-Formacao-JavaScript-Alura#javascript-conhecendo-objetos)
+- [JavaScript: utilizando tipos, variáveis e funções](#javascript-conhecendo-arrays)
+- [JavaScript: conhecendo arrays](#javascript-conhecendo-objetos)
+- [JavaScript: conhecendo objetos](#javascript-utilizando-tipos-variáveis-e-funções)
+
 ## JavaScript: utilizando tipos, variáveis e funções
 
 1. Declare três variáveis diferentes (uma para cada tipo: string, número e booleano) e atribua valores a elas. Em seguida, exiba o tipo de cada variável no console.
@@ -44,6 +45,15 @@ Esse repositório será atualizado ao longo do tempo com mais desafios conforme 
 
 16. Imagine um sistema que determina se um usuário tem idade suficiente para comprar o ingresso para um show. Declare duas variáveis que determinem a idade mínima e qual a idade do usuário e utilize estruturas condicionais (if, else) para determinar se o usuário pode realizar a compra.
 
+17. Crie uma função que receba o nome de uma pessoa como argumento e retorne uma saudação personalizada. Em seguida, chame a função e exiba a saudação no console.
+
+18. Crie uma função que receba a idade de uma pessoa e retorne se ela é maior de idade (idade >= 18). Imprima o resultado no console.
+
+19. Crie uma função que receba uma string e verifique se é um palíndromo (uma palavra que é lida da mesma forma de trás para frente) utilizando o método de string reverse(). Retorne true se for um palíndromo e false caso contrário. Imprima o resultado no console.
+
+20. Crie uma função que receba três números como parâmetros e determine qual é o maior entre eles. Utilize estruturas condicionais (if, else) para comparar os valores e determinar o maior. Imprima o maior valor no console.
+
+21. Crie uma arrow function chamada calculaPotencia que receba dois parâmetros: a base e o expoente. A função deve calcular a potência da base elevada ao expoente e retornar o resultado.
 
 ## JavaScript: conhecendo arrays
 ## JavaScript: conhecendo objetos
