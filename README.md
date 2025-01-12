@@ -67,4 +67,20 @@ Esse repositório será atualizado ao longo do tempo com mais desafios conforme 
 
 5. Desenvolva um programa em Node.js que simule uma clínica veterinária. Crie um array vazio chamado clinica que representará a fila de animais na clínica. Em um primeiro momento, simule a chegada de três animais diferentes e exiba a lista de animais no console. Após a exibição, remova os animais da lista um por vez e, por fim, exiba no console o estado final da lista.
 
+6. Crie uma função que receba dois arrays e os concatene em um único array.
+
+7. Crie um array chamado numeros contendo números de 1 a 10. Utilize o método slice para criar um novo array chamado parteNumeros que contenha apenas os números de índice 3 a 7 de numeros.
+
+8. Dado o array frutas contendo frutas que desejamos comprar na feira:
+- const frutas = ['Maçã', 'Banana', 'Laranja', 'Limão', 'Abacaxi']
+- Utilize o método splice para remover as frutas no índice 2 e 3 e, em seguida, adicione as frutas 'Kiwi' e 'Pêssego' nesses mesmos índices.
+
+9. Crie dois arrays chamados menuPrincipal e menuDeSobremesas contendo opções do cardápio de um restaurante. Utilize o método concat para criar um novo array menuCompleto contendo todos os elementos de menuPrincipal seguidos pelos elementos de menuDeSobremesas.
+
+10. Crie uma lista bidimensional com 3 linhas e 3 colunas, onde cada elemento seja uma matriz 3x3 com valores iniciando em 1 e aumentando em 1 a cada elemento. Dicas:
+- comece com um array vazio, por exemplo const matriz = [] e adicione valores nele com push;
+- você pode resolver usando um for dentro de outro for.
+- Acesse e imprima o elemento na segunda linha e terceira coluna da lista bidimensional matriz criada.
+- Adicione um novo elemento (por exemplo,15) na terceira linha e segunda coluna da lista bidimensional.
+
 ## JavaScript: conhecendo objetos
