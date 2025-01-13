@@ -83,4 +83,40 @@ Esse repositório será atualizado ao longo do tempo com mais desafios conforme 
 - Acesse e imprima o elemento na segunda linha e terceira coluna da lista bidimensional matriz criada.
 - Adicione um novo elemento (por exemplo,15) na terceira linha e segunda coluna da lista bidimensional.
 
+11. Escreva um código que utilize o loop for/of para iterar e imprimir cada elemento de um array.
+
+12. Crie uma função que receba uma array e imprima no console o número do índice e o elemento.
+
+13. Crie uma função que receba uma array de números inteiros e retorne a soma dos elementos.
+
+14. Crie uma função que receba uma array de números inteiros e retorne o menor valor e o maior valor da array, no seguinte formato: 'o menor número é X e o maior número é Y'.
+
+15. Crie um programa que utilize um laço for para percorrer uma array const numeros = [3, 8, 12, 5, 6, 10, 7, 2, 9, 14] e exibir no console apenas os números pares contidos nesse array.
+
+16. Crie um programa que calcule a média dos números presentes em um array utilizando um loop for.
+
+17. Utilize o método forEach para imprimir cada elemento de um array juntamente com seu índice.
+
+18. Crie uma função chamada executaOperacaoEmArray que recebe dois parâmetros: um array e uma função de callback que executa alguma operação matemática. Essa função deve iterar por cada elemento do array e aplicar a função de callback em cada um dos elementos, imprimindo o resultado da operação no console.
+
+19. Você recebeu um array numeros contendo valores numéricos. Crie um programa que verifique se um número específico está presente nesse array. Se estiver, o programa deve retornar a posição (índice) desse número. Caso contrário, se o número não estiver presente, o programa deve retornar "-1".
+
+20. Você recebeu dois arrays de nomes contendo os alunos da Turma A e da Turma B.
+```
+const nomesTurmaA = [
+  'João Silva',
+  'Maria Santos',
+  'Pedro Almeida'
+];
+
+const nomesTurmaB = [
+  'Carlos Oliveira',
+  'Ana Souza',
+  'Lucas Fernandes'
+];
+```
+- Utilize o método concat() para unir os arrays das turmas A e B em um único array chamado todasAsTurmas. Depois, utilize o método find() para buscar um aluno específico pelo nome no array todosAlunos. Exiba no console uma mensagem informando o nome do aluno procurado; caso não exista na lista, retorne uma mensagem de aviso, por exemplo Aluno não encontrado.
+
+21. Considere um array de números inteiros: `const numeros = [6, 9, 12, 15, 18, 21];` Utilize o método forEach() para multiplicar cada elemento do array por 3 e exibir no console o resultado de cada multiplicação. Depois, utilize o método findIndex() para encontrar o índice do número 18 no array original.
+
 ## JavaScript: conhecendo objetos
