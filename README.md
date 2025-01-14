@@ -119,4 +119,22 @@ const nomesTurmaB = [
 
 21. Considere um array de números inteiros: `const numeros = [6, 9, 12, 15, 18, 21];` Utilize o método forEach() para multiplicar cada elemento do array por 3 e exibir no console o resultado de cada multiplicação. Depois, utilize o método findIndex() para encontrar o índice do número 18 no array original.
 
+22. Faça uma função que aceite vários arrays como argumentos e retorne um único array contendo todos os elementos dos arrays fornecidos, utilizando Spread Operator.
+- Dica: é possível usar o spread operator diretamente em um parâmetro de função para "espalhar" seu conteúdo, por exemplo function funcaoExemplo(...params).
+
+23. Crie um array de números chamado valores. Depois,escreva um programa que some todos os elementos deste array utilizando o método reduce.
+
+24. Considere duas listas de cores:
+```
+const coresLista1 = ['Vermelho', 'Verde', 'Azul', 'Amarelo', 'Vermelho'];
+const coresLista2 = ['Laranja', 'Verde', 'Roxo', 'Azul'];
+```
+- Crie um programa que una essas duas listas, removendo cores duplicadas e exiba a lista final.
+
+25. Escreva uma função que receba um array de números e retorne um array contendo apenas os números pares.
+
+26. Crie uma função que filtre os números de um array que são múltiplos de 3 e maiores que 5.
+
+27. Crie uma função que receba um array de números e retorne a soma de todos os elementos.
+
 ## JavaScript: conhecendo objetos
